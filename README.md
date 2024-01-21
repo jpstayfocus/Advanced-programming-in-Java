@@ -1,10 +1,10 @@
 # Advanced-programming
 Advanced Programming in Java: Project, Labs, Assignments
 
-[+] Lectures
+[] Lectures
 
-[+] Labs
+[] Labs
 
-[+] Assignments
+[] Assignments
 
-[+] Projects
+[] Projects
