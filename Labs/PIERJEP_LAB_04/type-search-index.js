@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"Lab04A","l":"AgeComparator"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Lab04B","l":"Faculty"},{"p":"Lab04B","l":"Grad"},{"p":"Lab04B","l":"Instructor"},{"p":"Lab04B","l":"Lecturer"},{"p":"Lab04A","l":"LexicographicComparator"},{"p":"Lab04A","l":"Main"},{"p":"Lab04B","l":"Main"},{"p":"Lab04A","l":"Person"}];updateSearchResults();
